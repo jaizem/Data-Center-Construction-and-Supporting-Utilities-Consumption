@@ -3,5 +3,7 @@ This project seeks to investigate the reality of data center impacts by analyzin
 
 # Data Sources
 Electricity Data: https://ember-energy.org/data/us-electricity-data/#explore-this-data 
+
 Water Data:
+
 Datacenters: https://www.datacentermap.com/ 
